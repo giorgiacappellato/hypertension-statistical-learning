@@ -39,7 +39,7 @@ Data was split into training (70%) and test (30%) sets using a fixed random seed
 
 Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/hypertension-statistical-learning.git
+   git clone https://github.com/<giorgiacappellato>/hypertension-statistical-learning.git
    ```
 
 ## License
